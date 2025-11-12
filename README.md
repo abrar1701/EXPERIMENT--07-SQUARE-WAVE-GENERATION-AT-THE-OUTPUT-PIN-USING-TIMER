@@ -1,6 +1,6 @@
 # EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER
 
-## Name: Mohamed Abrar
+## Name: Mohamed Abrar M
 ## Reg no: 212223040111
 
 ### Aim:
